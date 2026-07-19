@@ -20,10 +20,5 @@ I build and maintain reliable, automated cloud infrastructure — from provision
 - Integrate code quality gates (SonarQube) into delivery pipelines
 - Design centralized logging and monitoring (EFK Stack, Prometheus, Grafana)
 
-## 📌 Featured Projects
-- 🔹 [terraform-gcp-infra](#) — VPC, compute, and storage provisioning via Terraform
-- 🔹 [k8s-gke-deployment](#) — Sample app deployed to GKE with ingress & autoscaling
-- 🔹 [jenkins-cicd-pipeline](#) — End-to-end CI/CD with Jenkins + GitHub Actions
-
 ## 📫 Reach Me
 [LinkedIn](https://linkedin.com/in/hariharancw) · hariharancw@gmail.com
